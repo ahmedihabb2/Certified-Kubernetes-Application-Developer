@@ -1,0 +1,1 @@
+**Container Image:** An image is a lightweight, standalone file that contains the software and executable needed to run a container
